@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Gucci Dress",
+        "price": 400,
+        "company": "Gucci",
+        "rating": 4
+    },
+    {
+        "name": "Iphone 7",
+        "price": 40,
+        "company": "Apple",
+        "rating": 2
+    },
+    {
+        "name": "Gucci Trousers",
+        "price": 400,
+        "company": "Gucci",
+        "rating": 1
+    },
+    {
+        "name": "Biscow",
+        "price": 50,
+        "company": "Yale",
+        "rating": 4
+    },
+    {
+        "name": "Mac Book",
+        "price": 1300,
+        "company": "Apple",
+        "rating": 4.4
+    },
+    {
+        "name": "Gucci ",
+        "price": 400,
+        "company": "Gucci",
+        "rating":1
+    },
+    {
+        "name": "Gucci Dress",
+        "price": 400,
+        "company": "Gucci",
+        "rating": 4
+    },
+    {
+        "name": "Iphone 7",
+        "price": 40,
+        "company": "Apple",
+        "rating": 2
+    },
+    {
+        "name": "Gucci Trousers",
+        "price": 400,
+        "company": "Gucci",
+        "rating": 1
+    },
+    {
+        "name": "Biscow",
+        "price": 50,
+        "company": "Yale",
+        "rating": 4
+    },
+    {
+        "name": "Mac Book",
+        "price": 1300,
+        "company": "Apple",
+        "rating": 4.4
+    },
+    {
+        "name": "Gucci ",
+        "price": 400,
+        "company": "Gucci",
+        "rating":1
+    }
+]
